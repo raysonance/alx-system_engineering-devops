@@ -1,1 +1,0 @@
-This is an api advanced exercise.
